@@ -1,0 +1,253 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    background-color: #F5F7FA;
+    padding: 40px;
+}
+.main-container {
+    display: flex;
+    flex-direction: row;
+    width: 1200px;
+    background-color: #fff;
+    margin: 40px auto;
+    box-shadow: 6px 6px 20px;
+}
+/*SIDE BAR*/
+.sidebar {
+    background-color: #1E2939;
+    width: 370px;
+    padding: 40px 0px;
+
+}
+/*CONTACTS*/
+.sidebar-contacts {
+    margin: 50px 0 0 40px;
+}  
+.contact-type {
+    color: #FFFFFF;
+    margin-right: 5px;
+}
+.contact-link {
+    color: #565E6A;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 24px;
+}
+/*TECH SKILLS*/
+.sidebar-tech-skills {
+    margin: 40px 0 0 40px;
+    margin-left: 60px;
+    color: #fff;
+}
+.tech-skills-item {
+    color: #FB6D3A;
+}
+.tech-skills-item-text {
+    color: #fff;
+}
+/*SOFT SKILLS*/
+.sidebar-soft-skills {
+    margin: 40px 0 0 40px;
+    color: #fff;
+}
+.soft-skills-item {
+    color: #FB6D3A;
+}
+.soft-skills-item-text {
+    color: #fff;
+}
+
+.sidebar-title {
+    color: #fff;    
+}
+.sidebar-list {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 24px;
+    padding: 0 0 0 18px;
+
+
+}
+/*MAIN CONTENT SECTION*/
+.main-content-section {
+    display: flex;
+    flex-direction: column;
+    padding: 100px 90px 100px 90px;
+}
+.main-content-title {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 22px;
+    line-height: 27px;
+    color: black;
+    margin-bottom: 10px;
+}
+/*ABOUT ME SECTION*/
+.about-me-profession {
+    margin-bottom: 20px;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 17px;
+    color: black;
+}
+.name {
+    margin-bottom: 25px;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 45px;
+    line-height: 55px;
+    color: #000;
+    
+}
+.about-me-description {
+    margin-bottom: 40px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 24px;
+    color: #595959;
+    width: 400px;
+}
+/*MY PROJECT SECTION*/
+.my-projects {
+    margin-bottom: 50px;
+}
+.my-projects-list {
+    padding: 0 0 0 17px;
+    width: 510px;
+}
+.my-projects-item {
+    color: black;    
+}
+.my-projects-text {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 24px;
+    color: #595959;
+    margin-left: 10px;
+}
+.my-projects-link {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 24px;
+    color: #595959
+}
+.my-projects-bracket {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 24px;
+    color: #000000;
+}
+/*MY WORK EXPERIENCE*/
+.work-experience-company {
+    margin: 0 0 15px 0;
+}
+.company-period {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 15px;
+    color: #A8A8A8;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+.bold-separation {
+    color: #000;
+}
+.my-work-in-company {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 20px;
+    color: rgb(245, 113, 24);
+}
+.my-work-experience-list {
+    margin: 0 0 0 -22px;
+}
+.my-work-experience-duties {
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 24px;
+    color: #9e0000;
+   
+}
+/*EDUCATION*/
+.Education {
+    margin-top: 40px;
+}
+.education-title {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 22px;
+    line-height: 27px;
+}
+.my-university {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 20px;
+    color: rgb(245, 113, 24);
+    margin: 1px 0 10px 0;
+}
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+/*body {
+    font-family:'Montserrat', sans-serif;;
+    background:#F5F7FA;
+}
+
+.main-container {
+    display: flex;
+    flex-direction: row;
+    background-color: #fff;
+    width: 1200px;
+    margin: 40px 50px;
+}
+.side-bar {
+    background: #1E2939;
+}
+.about-me-profession{
+    font-size: 14px;
+    font-weight: 700;
+    color: #000;
+}
+.main-content-section {
+    display: flex;
+    flex-direction: column;
+}
+
+.about-me {
+    /*background-color: darkgreen;*/
+    /*margin-bottom: 50px;
+    margin-top: 50px;
+    margin-left: 100px;
+    margin-right: 100px;*/
+
+    /*margin: 50px 300px 100px 500px;*/
+    /*padding: 30px 40px 50px 60px ;
+}*/
+
+
